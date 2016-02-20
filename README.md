@@ -140,6 +140,7 @@ Credits
 ------------
 * We have leaned heavily on the work of [WP-CLI](http://wp-cli.org/) in architecting this command line utility with an object-oriented structure.
 * We've also (obviously) been greatly inspired by [Drush](http://drush.ws/).
+* CODEWIZARD 
 
 Further Reading
 ------------
